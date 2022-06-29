@@ -1,6 +1,4 @@
-Deployment
-
-Site deployed in netlify : https://movieflixer.netlify.app
+Deployment in netlify : https://movieflixer.netlify.app
 
 
 # Getting Started with Create React App
